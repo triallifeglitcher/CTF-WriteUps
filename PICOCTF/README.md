@@ -2,7 +2,8 @@
 
 A structured log of **62 completed cybersecurity challenges** across **picoCTF** and **TryHackMe**, covering Web Exploitation, Digital Forensics, Cryptography, OSINT, and General Skills.
 
-> 🔗 **Related Repository:** Check out my hardware-accelerated offline cracking labs in [password_cracking_labs](https://github.com/triallifeglitcher/password_cracking_labs).
+> **Related Repository:** Check out my hardware-accelerated offline cracking labs in [password_cracking_labs](https://github.com/triallifeglitcher/password_cracking_labs).
+> **Page Link** The page link to this repository [PICOCTF](https://github.com/triallifeglitcher/CTF-WriteUps/edit/main/PICOCTF/README.md)
 
 ---
 
